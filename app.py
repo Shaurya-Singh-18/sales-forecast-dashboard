@@ -50,7 +50,7 @@ border:1px solid #222;">
 <h1 style="font-size:55px;
 color:white;
 margin-bottom:10px;">
-Siddharth Analytics
+SS Analytics
 </h1>
 
 <p style="font-size:20px;
@@ -68,7 +68,7 @@ flex-wrap:wrap;">
 <div>
 
 <h3 style="color:white;">
-Made By Siddharth Tiwari
+Made By SS
 </h3>
 
 <p style="color:#999999;">
@@ -84,7 +84,7 @@ Contact Us
 </h3>
 
 <p style="color:#ff4b4b;">
-siddharth57tiwari@gmail.com
+shauryanew119@gmail.com
 </p>
 
 </div>
